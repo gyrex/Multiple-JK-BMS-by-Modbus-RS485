@@ -1,4 +1,4 @@
-# **Multiple JK-BMS Modbus RJ485 integration**
+# **Multiple JK-BMS Modbus RS485 integration**
 
 ## **Principle of operation**
 
